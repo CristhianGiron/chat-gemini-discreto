@@ -272,7 +272,7 @@
     header.className = "header";
     const title = document.createElement("div");
     title.className = "title";
-    title.textContent = "Gemini";
+    title.textContent = "Chat-AI";
     const actions = document.createElement("div");
     actions.className = "actions";
     const gearBtn = document.createElement("button");
